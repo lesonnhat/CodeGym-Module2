@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lesson5.iml" filepath="$PROJECT_DIR$/.idea/Lesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bt-Access-modifier/bt-Access-modifier.iml" filepath="$PROJECT_DIR$/bt-Access-modifier/bt-Access-modifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bt-xay-dung-lop-chi-ghi/bt-xay-dung-lop-chi-ghi.iml" filepath="$PROJECT_DIR$/bt-xay-dung-lop-chi-ghi/bt-xay-dung-lop-chi-ghi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/th-static-method/th-static-method.iml" filepath="$PROJECT_DIR$/th-static-method/th-static-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/th-static-property/th-static-property.iml" filepath="$PROJECT_DIR$/th-static-property/th-static-property.iml" />
+    </modules>
+  </component>
+</project>

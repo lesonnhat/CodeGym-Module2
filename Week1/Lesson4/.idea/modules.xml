@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lesson4.iml" filepath="$PROJECT_DIR$/.idea/Lesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bt-xay-dung-lop-QuadraticEquation/bt-xay-dung-lop-QuadraticEquation.iml" filepath="$PROJECT_DIR$/bt-xay-dung-lop-QuadraticEquation/bt-xay-dung-lop-QuadraticEquation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bt-xay-dung-lop-StopWatch/bt-xay-dung-lop-StopWatch.iml" filepath="$PROJECT_DIR$/bt-xay-dung-lop-StopWatch/bt-xay-dung-lop-StopWatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bt-xay-dung-lop-fan/bt-xay-dung-lop-fan.iml" filepath="$PROJECT_DIR$/bt-xay-dung-lop-fan/bt-xay-dung-lop-fan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/th-lop-hinh-chu-nhat/th-lop-hinh-chu-nhat.iml" filepath="$PROJECT_DIR$/th-lop-hinh-chu-nhat/th-lop-hinh-chu-nhat.iml" />
+    </modules>
+  </component>
+</project>
