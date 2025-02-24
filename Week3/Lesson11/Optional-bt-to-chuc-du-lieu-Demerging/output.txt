@@ -1,0 +1,4 @@
+Alice, NU, 1990-05-15
+Catherine, NU, 1992-01-30
+Bob, NAM, 1989-03-22
+David, NAM, 1988-07-12
