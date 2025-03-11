@@ -54,6 +54,7 @@ public class NhanVienFulltime extends NhanVien implements Luong {
                 "\n Lương cứng: " + getLuongCung() + " VNĐ" +
                 " | Tiền thưởng: " + getTienThuong() + " VNĐ" +
                 " | Tiền phạt: " + getTienPhat() + " VNĐ" +
+                " | Lương thực lĩnh: " + luongThucLinh() + " VNĐ" +
         "\n ---------------------------------------\n";
     }
 }

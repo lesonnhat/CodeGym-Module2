@@ -32,6 +32,7 @@ public class NhanVienParttime extends NhanVien implements Luong {
                 " | Số điện thoại: " + getSoDienThoai() +
                 " | Email: " + getEmail() +
                 "\n Số giờ làm: " + getSoGioLam() + " giờ" +
+                " | Lương thực lĩnh: " + luongThucLinh() + " VNĐ" +
                 "\n ---------------------------------------\n";
     }
 }

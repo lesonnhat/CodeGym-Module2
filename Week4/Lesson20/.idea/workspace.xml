@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88c20879-021f-49f0-a1ff-e9477306f7fb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../MiniTest/mini-test-3/src/main/java/org/example/NhanVienFulltime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MiniTest/mini-test-3/src/main/java/org/example/NhanVienFulltime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MiniTest/mini-test-3/src/main/java/org/example/NhanVienParttime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../MiniTest/mini-test-3/src/main/java/org/example/NhanVienParttime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week2/Lesson09/th-tim-gia-tri-tuyet-doi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week2/Lesson09/th-tim-gia-tri-tuyet-doi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week2/Lesson09/th-tim-gia-tri-tuyet-doi/AbsoluteNumberCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week2/Lesson09/th-tim-gia-tri-tuyet-doi/AbsoluteNumberCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week2/Lesson09/th-tim-gia-tri-tuyet-doi/out/production/th-tim-gia-tri-tuyet-doi/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week2/Lesson09/th-tim-gia-tri-tuyet-doi/out/production/th-tim-gia-tri-tuyet-doi/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Week2/Lesson09/th-tim-gia-tri-tuyet-doi/out/production/th-tim-gia-tri-tuyet-doi/AbsoluteNumberCalculatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Week2/Lesson09/th-tim-gia-tri-tuyet-doi/out/production/th-tim-gia-tri-tuyet-doi/AbsoluteNumberCalculatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson16/bt-copy-file-text/FileCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson16/bt-copy-file-text/FileCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson16/bt-copy-file-text/out/production/bt-copy-file-text/FileCopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson16/bt-copy-file-text/out/production/bt-copy-file-text/FileCopy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson16/bt-copy-file-text/target.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson17/th-doc-va-ghi-danh-sach-sinh-vien/out/production/th-doc-va-ghi-danh-sach-sinh-vien/student.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson17/th-doc-va-ghi-danh-sach-sinh-vien/out/production/th-doc-va-ghi-danh-sach-sinh-vien/student.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2u6vRsaAcVxX6pQOUcTz3APpO5v" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/CodeGym/C1224G1/CodeGym-Module2/Week4/Lesson20",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88c20879-021f-49f0-a1ff-e9477306f7fb" name="Changes" comment="" />
+      <created>1741581834199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741581834199</updated>
+      <workItem from="1741581835401" duration="1000" />
+      <workItem from="1741581863195" duration="1000" />
+    </task>
+    <servers />
+  </component>
+</project>
